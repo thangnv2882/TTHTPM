@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="bai3_2.xslt" ?>
+<DS>
+	<congty TenCT="Cty A">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0987654321</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Thang</hoten>
+				<ngaysinh>2002-08-28</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Thang 2</hoten>
+				<ngaysinh>2002-08-28</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Thang 3</hoten>
+				<ngaysinh>2002-08-28</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+
+		</donvi>
+	</congty>
+	<congty TenCT="Cty B">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0987654321</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Thang</hoten>
+				<ngaysinh>2002-08-28</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Thang 2</hoten>
+				<ngaysinh>2002-08-28</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc03</manv>
+				<hoten>Thang 3</hoten>
+				<ngaysinh>2002-08-28</ngaysinh>
+				<gioitinh>Nam</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+
+		</donvi>
+	</congty>
+</DS>

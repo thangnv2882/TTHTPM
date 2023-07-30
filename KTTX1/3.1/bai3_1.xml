@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="bai3_1.xslt" ?>
+
+<congty>
+	<donvi madv="a01">
+		<tendv>Phòng tổ chức</tendv>
+		<dienthoai>0987654321</dienthoai>
+		<nhanvien>
+			<manv>tc01</manv>
+			<hoten>Thang</hoten>
+			<ngaysinh>2002-08-28</ngaysinh>
+			<gioitinh>Nam</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc02</manv>
+			<hoten>Thang 2</hoten>
+			<ngaysinh>2002-08-28</ngaysinh>
+			<gioitinh>Nam</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+		
+	</donvi>
+</congty>

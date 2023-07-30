@@ -1,0 +1,10 @@
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\bin\Debug\2.exe.config
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\bin\Debug\2.exe
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\bin\Debug\2.pdb
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\2.csproj.AssemblyReference.cache
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\_2.Properties.Resources.resources
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\2.csproj.GenerateResource.cache
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\2.exe
+F:\Workspace\Period_6\3.DHMT\BTL\KTTX1\2\obj\Debug\2.pdb

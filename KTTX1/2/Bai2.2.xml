@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS xmlns="http://tempuri.org/bai2.xsd">
+	<HoaDon>
+		<MaHD>HD21</MaHD>
+		<NgayBan>2023-03-03</NgayBan>
+		<LoaiHang MaLoai="l1" TenLoai="Loai 1">
+			<Hang MaHang="a1">
+				<TenHang>Hang1</TenHang>
+				<SoLuong>1</SoLuong>
+				<DonViTinh>Gói</DonViTinh>
+				<DonGia>0.1</DonGia>
+			</Hang><Hang MaHang="a2">
+				<TenHang>Hang1</TenHang>
+				<SoLuong>1</SoLuong>
+				<DonViTinh>Gói</DonViTinh>
+				<DonGia>0.1</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="l1" TenLoai="Loai 1">
+			<Hang MaHang="b1">
+				<TenHang>Hang1</TenHang>
+				<SoLuong>1</SoLuong>
+				<DonViTinh>Gói</DonViTinh>
+				<DonGia>0.1</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>
